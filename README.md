@@ -1,5 +1,5 @@
 ## Emitter
-**Emitter** is a very lightweight particle emitter system compatible with most VFX plugins.
+**Emitter** is a very lightweight particle emitter function compatible with most VFX plugins.
 
 ## Usage
 ```lua
